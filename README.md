@@ -1,5 +1,7 @@
 # Eargo
-
+<b> Seperate java file for each exercise , each file has main class and test cases listed to run. Sql query can be run directly on Sql server</b>
+<br>
+<br>
 <b> Exercise 1 - </b>
 The function will return list, vector or collection of numbers representing the number of quarters(25), dimes(10), nickels (5), pennies (1) that would yield the correct change.
  <br>
